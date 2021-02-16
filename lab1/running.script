@@ -1,0 +1,8 @@
+Script started on 2019-03-08 00:05:50+0800
+]0;pd2@VirtualBox: ~/Desktop/hw/lab1[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw/lab1[00m$ g++ -o a.out A.cpp
+]0;pd2@VirtualBox: ~/Desktop/hw/lab1[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw/lab1[00m$ ./a.out
+22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+]0;pd2@VirtualBox: ~/Desktop/hw/lab1[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw/lab1[00m$ exit
+
+Script done on 2019-03-08 00:06:21+0800

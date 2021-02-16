@@ -1,0 +1,24 @@
+Script started on 2019-03-07 23:52:30+0800
+]0;pd2@VirtualBox: ~/Desktop/hw[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw[00m$ whoami; pwd
+pd2
+/home/pd2/Desktop/hw
+]0;pd2@VirtualBox: ~/Desktop/hw[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw[00m$  git config -l
+[?1h=core.editor=vim[m
+push.default=simple[m
+user.email=shani21516344@gmail.com[m
+user.name=shani[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+[K[?1l>]0;pd2@VirtualBox: ~/Desktop/hw[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw[00m$ git clone https://pd2a.imslab.org/gitlab/shani/lab1..git
+Cloning into 'lab1'...
+Username for 'https://pd2a.imslab.org': shani
+Password for 'https://shani@pd2a.imslab.org': 
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)   [Kremote: Counting objects:  66% (2/3)   [Kremote: Counting objects: 100% (3/3)   [Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0)[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;pd2@VirtualBox: ~/Desktop/hw[01;32mpd2@VirtualBox[00m:[01;34m~/Desktop/hw[00m$ exit
+
+Script done on 2019-03-07 23:53:58+0800
