@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>jpg/board.gif</file>
+        <file>jpg/紅兵.png</file>
+        <file>jpg/紅包.png</file>
+        <file>jpg/紅士.png</file>
+        <file>jpg/紅帥.png</file>
+        <file>jpg/紅相.png</file>
+        <file>jpg/紅車.png</file>
+        <file>jpg/紅馬.png</file>
+        <file>jpg/黑包.png</file>
+        <file>jpg/黑卒.png</file>
+        <file>jpg/黑士.png</file>
+        <file>jpg/黑將.png</file>
+        <file>jpg/黑象.png</file>
+        <file>jpg/黑車.png</file>
+        <file>jpg/黑馬.png</file>
+        <file>jpg/black lose.png</file>
+        <file>jpg/black win.png</file>
+    </qresource>
+</RCC>

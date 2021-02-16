@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>jpg/pacman_background.gif</file>
+        <file>jpg/man_down.png</file>
+        <file>jpg/man_left.png</file>
+        <file>jpg/man_right.png</file>
+        <file>jpg/man_up.png</file>
+        <file>jpg/blue.png</file>
+        <file>jpg/orange.png</file>
+        <file>jpg/pink.png</file>
+        <file>jpg/red.png</file>
+        <file>jpg/ghostCollipse.png</file>
+    </qresource>
+</RCC>
